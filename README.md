@@ -1,4 +1,4 @@
-# 🗣️ Metin Dosyasını Sese Dönüştürme Projesi
+# Metin Dosyasını Sese Dönüştürme Projesi
 
 Bu Python projesi, bir `.txt` dosyasındaki metni **Google Text-to-Speech (gTTS)** kullanarak ses dosyasına dönüştürür ve oynatır
 
@@ -39,7 +39,7 @@ python texttosound.py
 
 **Dil Ayarı:**
 
-Varsayılan dil Fransızca olarak ayarlanmıştır (lang="tr"). Eğer başka bir dil kullanmak istiyorsanız, kodun şu satırını değiştirin:
+Varsayılan dil Türkçeolarak ayarlanmıştır (lang="tr"). Eğer başka bir dil kullanmak istiyorsanız, kodun şu satırını değiştirin:
 
 
 
