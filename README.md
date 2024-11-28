@@ -31,7 +31,7 @@ Projenizi kolayca kurmak için şu adımları takip edin:
   ```
 **Metin dosyanızı hazırlayın:**
 
-Projenin bulunduğu dizinde bir deneme.txt dosyası oluşturun ve seslendirmek istediğiniz metni bu dosyaya ekleyin.
+Projenin bulunduğu dizinde bir ```deneme.txt``` dosyası oluşturun ve seslendirmek istediğiniz metni bu dosyaya ekleyin.
 
 ```bash
 python texttosound.py
