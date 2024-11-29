@@ -7,8 +7,7 @@ Bu Python projesi, bir `.txt` dosyasındaki metni **Google Text-to-Speech (gTTS)
 ## 🛠️ Gereksinimler
 
 Bu projeyi çalıştırabilmek için aşağıdaki araçlara ihtiyacınız var:
-
-- **Python 3.7+**  
+ 
 - **gTTS Kütüphanesi**  
 - İşletim sistemi uyumlu bir medya oynatıcı:
   - **Windows:** `os.system("start ...")`
