@@ -4,7 +4,7 @@ Bu Python projesi, bir `.txt` dosyasındaki metni **Google Text-to-Speech (gTTS)
 
 ---
 
-## 🛠️ Gereksinimler
+## Gereksinimler
 
 Bu projeyi çalıştırabilmek için aşağıdaki araçlara ihtiyacınız var:
  
@@ -16,7 +16,7 @@ Bu projeyi çalıştırabilmek için aşağıdaki araçlara ihtiyacınız var:
 
 ---
 
-## 📦 Kurulum
+## Kurulum
 
 Projenizi kolayca kurmak için şu adımları takip edin:
 
